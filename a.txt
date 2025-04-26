@@ -2,4 +2,3 @@ sample1
 taro
 aiueo
 hello
-woeld
